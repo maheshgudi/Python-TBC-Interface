@@ -139,6 +139,8 @@ INSTALLED_APPS = (
     'tbc',
     'comments',
     'south',
+    'taggit',
+    'taggit_templatetags2',
     
 )
 
